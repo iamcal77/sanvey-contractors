@@ -53,3 +53,15 @@
     color: rgb(8, 115, 238);
     cursor: pointer;
 }
+@media (max-width: 600px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    ul li {
+        font-size: 14px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }}
