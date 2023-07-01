@@ -1,0 +1,55 @@
+.home{
+    background-image:url(construction.avif) ;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    border-radius: 10px;
+    padding: 25px;
+    
+    
+}
+.heading{
+    color: aqua;
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    cursor: pointer;
+
+}
+.divisions{
+    color: rgb(12, 12, 12);
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    cursor: pointer;
+    
+    
+
+}
+.heading2{
+    margin-left: 300px;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    cursor: pointer;
+}
+.pages{
+    margin-left: 500px;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.h1{
+    margin-left:350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    cursor: pointer;
+
+}
+.h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 500px;
+    color: rgb(8, 115, 238);
+    cursor: pointer;
+}
